@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pig/The Game of Pig Using Q-Learning.md",
+                "file": "Pig/Optimal Pig play using Value iteration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pig/The Game of Pig Using Q-Learning.md",
+                "file": "Pig/Optimal Pig play using Value iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pig/The Game of Pig Using Q-Learning.md",
+                "file": "Pig/Optimal Pig play using Value iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pig/The Game of Pig Using Q-Learning.md"
+                "file": "Pig/Optimal Pig play using Value iteration.md"
               }
             }
           },
@@ -169,10 +169,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c12fc2860e5449e3",
+  "active": "2267e3276ae1dd71",
   "lastOpenFiles": [
+    "RL",
     "Pig/The Game of Pig Using Q-Learning.md",
-    "Value Iteration.md",
+    "RL/Value Iteration.md",
     "Pig/Optimal Pig play using Value iteration.md",
     "Value Iteration",
     "repository",

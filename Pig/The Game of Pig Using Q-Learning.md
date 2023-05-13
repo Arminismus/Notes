@@ -1,4 +1,3 @@
-Here is our code for [[The Game of Pig]]
 ### Here is how the `PigEnv` agent class `__init__`  is implemented: 
 
 ```python

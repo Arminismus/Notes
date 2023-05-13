@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "f76f35660833bc83",
+    "type": "split",
+    "children": [
+      {
+        "id": "9354fe8415c9dee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5212adfe4756482e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pig/Optimal Pig play using Value iteration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76287ab99f98037f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6038318164c0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2267e3276ae1dd71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a58c6161fc7b5f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c9c33cc43ee1b0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aae426cb8a5c69cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c0d736a14a05eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5b1bcaa0f776306",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pig/Optimal Pig play using Value iteration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10c96d1d94a1017e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pig/Optimal Pig play using Value iteration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30d179b2fcdc0ce5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a478bc85618dc11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pig/Optimal Pig play using Value iteration.md"
+              }
+            }
+          },
+          {
+            "id": "6fdc0248bd2c5be3",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "5212adfe4756482e",
+  "lastOpenFiles": [
+    "repository",
+    "New folder",
+    "Pig/The Game of Pig.md",
+    "Pig/The Game of Pig Using Q-Learning.md",
+    "Note 1.md",
+    "Pig/Optimal Pig play using Value iteration.md",
+    "Javascript/Javascript important notes.md",
+    "flashcards.md",
+    "sdfjskj.md",
+    "Javascript",
+    "Pig",
+    "Note 2 Exists.md",
+    "tracked_files.json"
+  ]
+}

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c12fc2860e5449e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Value Iteration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pig/Optimal Pig play using Value iteration.md",
+                "file": "Value Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pig/Optimal Pig play using Value iteration.md",
+                "file": "Value Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pig/Optimal Pig play using Value iteration.md"
+                "file": "Value Iteration.md"
               }
             }
           },
@@ -156,14 +169,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5212adfe4756482e",
+  "active": "c12fc2860e5449e3",
   "lastOpenFiles": [
+    "Pig/Optimal Pig play using Value iteration.md",
+    "Value Iteration.md",
+    "Value Iteration",
     "repository",
     "New folder",
     "Pig/The Game of Pig.md",
     "Pig/The Game of Pig Using Q-Learning.md",
     "Note 1.md",
-    "Pig/Optimal Pig play using Value iteration.md",
     "Javascript/Javascript important notes.md",
     "flashcards.md",
     "sdfjskj.md",

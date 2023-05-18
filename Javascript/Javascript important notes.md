@@ -53,7 +53,7 @@ Add an item to the beginning of an array?
 ```javascript
 ourArray.unshift("hello");
 ```
-<!--SR:!2023-05-17,2,230-->
+<!--SR:!2023-05-21,4,230-->
 
 
 How to define a global variable from inside a function?
@@ -98,7 +98,7 @@ if (condition){
 	// your code
 };
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-24,8,250-->
 
 
 Write a switch statement in Javascipt?
@@ -118,7 +118,7 @@ switch(val){
 		break;
 };
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-26,10,250-->
 
 Write a switch statement in Javascript that does the same action for `val = 1` and `val = 2`.
 ?
@@ -133,7 +133,7 @@ switch(val){
 		break;
 };
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-25,9,250-->
 
 
 Write a javascript object that is about a user profile?
@@ -146,7 +146,7 @@ var obj = {
 	"wives":["Samantha","Autumn","Felicity"]
 };
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-26,10,250-->
 
 
 Access the `hat` property of the object `man` in javascript?
@@ -156,14 +156,14 @@ console.log(man.hat);
 //or
 console.log(man["hat"]);
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-22,6,250-->
 
 Delete the property `bark` from javascript object `myDog`.
 ?
 ```javascript
 delete myDog.bark;
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-26,10,250-->
 
 
 Check if a javascript object `man` has a property `bark` ?
@@ -171,7 +171,7 @@ Check if a javascript object `man` has a property `bark` ?
 ```javascript
 console.log(man.hasOwnProperty('bark'));
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-24,8,250-->
 
 Write a for loop in javascript?
 ?
@@ -180,7 +180,7 @@ for (var i = 0; i < 5; i++){
 	console.log(i)
 };
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-23,7,250-->
 
 Write a do while loop in javascript?
 ?
@@ -189,33 +189,33 @@ do {
 	//thing to do
 } while(condition);
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-22,6,250-->
 
 Convert an integer to string in Javascript?
 ?
 ```javascript
 console.log(parseInt('2')) ;
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-19,2,230-->
 
 Use the ternary if-else operator in javascript?
 ?
 ```javascript
 a > b ? console.log("a is bigger") : console.log("b is bigger");
 ```
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-26,10,250-->
 
 Which keyword does not allow a variable to be redeclared?
 ?
 The `let` and `const` keywords. `const` also doesn't allow reassignment.
-<!--SR:!2023-05-16,3,250-->
+<!--SR:!2023-05-25,9,250-->
 
 Write a javascript date object for today?
 ?
 ```javascript
 const date = new Date('2023-10-1');
 ```
-<!--SR:!2023-05-17,2,249-->
+<!--SR:!2023-05-21,4,249-->
 
 
 What value is stored in x in javascript?
@@ -227,4 +227,5 @@ let x = 16 + 4 + "Volvo";
 ```
 20Volvo
 ```
+<!--SR:!2023-05-23,5,249-->
 

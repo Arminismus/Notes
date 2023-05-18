@@ -1,0 +1,1 @@
+An observation in Reinforcement learning is the part of the state that the agent has access to and sees and perceives.

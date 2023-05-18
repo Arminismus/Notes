@@ -4,35 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "9354fe8415c9dee8",
+        "id": "9369b97bf52d50fe",
         "type": "tabs",
         "children": [
           {
-            "id": "5212adfe4756482e",
+            "id": "3eee6a7aaab48ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pig/The Game of Pig.md",
+                "file": "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9115b1dd7f79739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RL/Q-Network.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "558d5a816c1b3e16",
+            "id": "a18fc2adf85c205d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md"
+              }
+            }
+          },
+          {
+            "id": "de94b0cdcee096e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Javascript important notes.md",
+                "file": "RL/Semantic Experience Replay.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba721646fb9af3ef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md"
+              }
+            }
+          },
+          {
+            "id": "9783c224f94c9b62",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Javascript important notes.md",
+                "file": "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Javascript important notes.md",
+                "file": "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Javascript important notes.md"
+                "file": "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md"
               }
             }
           },
@@ -169,14 +211,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "558d5a816c1b3e16",
+  "active": "9783c224f94c9b62",
   "lastOpenFiles": [
+    "Embodied Active Learning.md",
+    "RL/Deep Reinforcement Learning/Mathematical Methods of Deep reinforcement learning.md",
+    "RL/Deep Reinforcement Learning/Miguel Morales - Grokking Deep Reinforcement Learning-Manning Publications (2020).pdf",
+    "RL/Semantic Experience Replay.md",
+    "RL/Semantic Exploration.md",
+    "RL/Important Notes from DRL book.md",
+    "RL/Linguistic Understanding State Space.md",
     "RL/Value Iteration.md",
+    "RL/Q-Network.md",
+    "RL/Observation in RL.md",
+    "RL/Exploration-Exploitation Trade-off.md",
     "Javascript/Javascript important notes.md",
+    "Observation.md",
+    "Pig/The Game of Pig.md",
+    "Deep Learning/Attention is All you need.md",
+    "Deep Learning",
+    "Deep Reinforcement Learning/Mathematical Foundations of Deep Reinforcement Learning.md",
+    "RL/Deep Reinforcement Learning",
     "Mojo",
     "Results.md",
     "Mojo/Mojo.md",
-    "Pig/The Game of Pig.md",
     "Pig/Optimal Pig play using Value iteration.md",
     "RL",
     "Pig/The Game of Pig Using Q-Learning.md",
@@ -188,7 +245,6 @@
     "sdfjskj.md",
     "Javascript",
     "Pig",
-    "Note 2 Exists.md",
-    "tracked_files.json"
+    "Note 2 Exists.md"
   ]
 }

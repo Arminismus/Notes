@@ -7,3 +7,6 @@ $$V^{\pi}(s) = R(S,A) + \gamma \sum_{s'}P(S'|S,A)V^{\pi}(S')$$
 Where $$A = \pi(s)$$
 This gives us a way to use the values of one state into another, and find the values of all states. This is called value iteration, where we iteratively find the values of all states given the values of other states, using the Bellman Equation derived using the dynamics of the system.
 
+
+First, we [[Maximizing the Probability of Winning|maximize our porbability of wining]].
+
